@@ -57,9 +57,5 @@ A chat application was probably not what you were expecting in a DevOps article,
 Web hooks provide simple integration points for simple things such as build notifications, environment statuses and deployment audits. There is a growing number of custom integrations for some of the tools we have covered in this article and the bot space is rapidly expanding into AI backed members of the team that answer questions about builds and code to deploy code or troubleshoot issues in production. It’s not a surprise that this space has gained its own name, ChatOps. Articles covering the top 10 ChatOps strategies will surely follow.
 
 
-
-
-
-
-
-Summary In this article we covered several of the tools that integrate into the DevOps culture and how those tools are used and are transforming all areas of the technology organization. While not an exhaustive list, the areas that were covered will give you an idea of the scope of the space and how these various systems can be integrated together.
+## Summary 
+In this article we covered several of the tools that integrate into the DevOps culture and how those tools are used and are transforming all areas of the technology organization. While not an exhaustive list, the areas that were covered will give you an idea of the scope of the space and how these various systems can be integrated together.
