@@ -30,6 +30,8 @@ Web applications have become increasingly complex on the client side, using fram
 
 The MEAN stack proves the concept of using Javascript across an entire web application stack. We see that each member of the  stack is a JavaScript technology or works very well with JavaScript. The stack consists of the web framework, ExpressJS, a JavaScript web MVC framework, AngularJS, Node.js the JavaScript server and document NoSQL database, MongoDB. As with the earlier LAMP stack, the MEAN stack provides an integrated set of applications and frameworks with many libraries made available by the community to assist the developer with data access, security, caching, routing and other typical web application concerns.
 
+![](https://raw.githubusercontent.com/darrellpratt/writings/master/meanstack.png)
+
 MongoDB fits well with the stack as it provides a JSON data store and a simple querying syntax to load data into the application. MongoDB provides an official Node.js driver for the database and the community backed Mongoose package provides an excellent ODM (Object Document Mapper) tool to simplify the integration of data with the application logic.
 
 ## MERN
