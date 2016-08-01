@@ -42,6 +42,8 @@ The elephant in the room with AngularJS 1.x has been the SEO implications of its
 The MERN stack has the same general makeup of MEAN, but the React framework does pull in some of its own environment with other controller frameworks such as Flux. The combination of React and Flux have a large community following now and will continue to pull share away from AngularJS and it’s place in the  ME*N stack.
 
 ## The Server-less Stack
+![](https://raw.githubusercontent.com/darrellpratt/writings/master/reinvent_launch-page_illustration_lambda.png)
+
 A large shift that is occurring now is the move to the server-less application stack. With the introduction of Lambda by Amazon Web Services and Cloud Functions from Google, the idea of  a JavaScript function running on a cloud platform only when needed has caught the imagination of developers who have created  at least one example of an application stack that can run on-demand within the Lambda infrastructure and make use of services as needed by the application rather than requiring the developer to configure or maintain other aspects of the stack. Aptly named Serverless, the framework is growing rapidly and ready for use on AWS.
 
 ## Summary
