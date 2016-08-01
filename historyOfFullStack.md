@@ -37,6 +37,8 @@ MongoDB fits well with the stack as it provides a JSON data store and a simple q
 ## MERN
 The elephant in the room with AngularJS 1.x has been the SEO implications of its usage. Even though the framework was written by Google, its client side rendering of content has been impacting the SEO ranking of some of the sites making heavy use of it. In addition to the SEO concern, the heavy CPU usage of the framework led Facebook to move in a different route with the React.js framework. React is quite different from AngularJS in its method for rendering HTML within  an application and makes a great replacement for the “A” of the MEAN stack. Gone is the two-way binding of data in Angular with the Virtual DOM.
 
+![](https://raw.githubusercontent.com/darrellpratt/writings/master/reactlogo.png)
+
 The MERN stack has the same general makeup of MEAN, but the React framework does pull in some of its own environment with other controller frameworks such as Flux. The combination of React and Flux have a large community following now and will continue to pull share away from AngularJS and it’s place in the  ME*N stack.
 
 ## The Server-less Stack
