@@ -1,6 +1,6 @@
 # Top 5 DevOps Tools to Increase Agility
 
-Top 5 DevOps Tools to Increase Agility DevOps has been broadly defined as a movement that aims to remove the barriers between the development and operations teams within an organization. Agile practices have helped to increase speed and agility within the development teams but the old methodology of throwing the code over the wall to an operations department to manage the deployment of the code to the production systems still persists. 
+DevOps has been broadly defined as a movement that aims to remove the barriers between the development and operations teams within an organization. Agile practices have helped to increase speed and agility within the development teams but the old methodology of throwing the code over the wall to an operations department to manage the deployment of the code to the production systems still persists. 
 
 >> The primary goal of the adoption of the DevOps practice is to improve both the communication between disparate operations and development groups and the process by which they work.
 
